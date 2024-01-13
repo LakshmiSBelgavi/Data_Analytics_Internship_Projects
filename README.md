@@ -7,6 +7,9 @@ This repository contains all the weekly projects of my Data_Analytics_Internship
 ### This includes a dashboard created using the google sheets for the dataset "bike_buyers.csv".
 This repository contains week-1 project of my Data_Analytics_Internship
 
+## DASHBOARD
+
+
 
 🔍 Data Cleaning, Exploration, and Visualization Mastery!
 
@@ -27,6 +30,9 @@ Marital Status: Representing how count of bike purchases vary among different ma
 Gender: Built a bar graph to compare the count of male and female customers
 
 Income: distribution of income among bike buyers.
+
+
+
 
 Region: Representing the distribution of bike purchases by region using a pie chart. 
 
