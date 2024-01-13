@@ -5,10 +5,11 @@ This repository contains all the weekly projects of my Data_Analytics_Internship
 ## WEEK 1 : BIKE BUYERS DASHBOARD
 
 ### This includes a dashboard created using the google sheets for the dataset "bike_buyers.csv".
-This repository contains week-1 project of my Data_Analytics_Internship
+
 
 ## DASHBOARD
 
+![Screenshot 2024-01-13 184637](https://github.com/LakshmiSBelgavi/Data_Analytics_Internship_Projects/assets/147576712/66dda974-3732-4238-ab58-2e041f2d5035)
 
 
 🔍 Data Cleaning, Exploration, and Visualization Mastery!
@@ -31,12 +32,13 @@ Gender: Built a bar graph to compare the count of male and female customers
 
 Income: distribution of income among bike buyers.
 
-
-
-
 Region: Representing the distribution of bike purchases by region using a pie chart. 
 
 Income vs. Age: Created a scatter plot to investigate the relationship between income and age.
 
 Marital Status & Gender: Representing how the distribution of bike purchases differ when considering both marital status and gender simultaneously, through stacked bar chart.
+
+## Conclusion:
+
+ Through this project , I have mastered data cleaning, exploration, and visualization, culminating in a powerful Google Sheets dashboard unveiling insights into bike buyers' behavior. 
 
